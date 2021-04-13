@@ -1,0 +1,12 @@
+.greentext {
+	color: green;
+}
+
+.redtext {
+	color: red;
+}
+
+.activities {
+	max-height: 30rem;
+	overflow: auto;
+}
